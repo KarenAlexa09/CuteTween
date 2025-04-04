@@ -1,0 +1,18 @@
+{
+    "name": "CuteTween.Editor",
+    "rootNamespace": "KarenAlexa09.CuteTween.Editor",
+    "references": [
+        "GUID:3bb990e9048f7de4287f91aa9affec2b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
